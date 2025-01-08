@@ -19,3 +19,5 @@ Same M3x6 to mount them to the frame. These will sit slightly lower than their m
 these have a hole through the center that should be wide enough for even a 4-wire fan if thats what you chose to use. 
 
 If the fans will not stay friction fit inside the ducts there are provided m2x10 self tepping posts included as well. 
+
+Print either the magnetic mounts or the static ducts you do not need both and they should be laid out in slicer for the best orientation I have found to print them in. 
