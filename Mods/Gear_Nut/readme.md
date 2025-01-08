@@ -2,11 +2,13 @@ These are my magnetic and static stealth bed fans for the Micron
 
 Magnetic mounts.
 
-![Alt text of the image](https://github.com/GearNut/Micron/blob/main/Mods/Gear_Nut/Images/Magnetic%20Ducts.png))
+![Alt text of the image](https://github.com/GearNut/Micron/blob/main/Mods/Gear_Nut/Images/Magnetic%20Ducts.png)
 
-The wires are tucked underneath the magnets and held in place with friction fit. you wuill need 6 3*6 magnets perside and be careful of the polarity! They should all face the same direction.
+The wires are tucked underneath the magnets and held in place with friction fit. you wull need 6 3*6 magnets per side and be careful of the polarity! They should all face the same direction.
 
-M3x6 to mount the magnetic mounts to the bed exttusions with a NDN worked well for me. 
+M3x6 to mount the magnetic mounts to the bed extrusions with a NDN worked well for me.
+
+Wires will pass out either side of the mount and cross over the bed extrusion to the filter wagos or down into the Ebay if you chose. 
 
 Static Mounts. 
 
